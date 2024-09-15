@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="t2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/elasticsearch-analysis-ik-8.12.2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/es-head.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
